@@ -1,1 +1,13 @@
 utils/
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Файлы с секретами и настройками
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
